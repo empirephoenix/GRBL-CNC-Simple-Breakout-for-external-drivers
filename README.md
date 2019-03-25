@@ -10,3 +10,6 @@ Additionally:
 -> To allow fast building, this shield can be created with a one sided PCB, allowing it to be created with even the cheapest CNC kits
 -> The amount of bridge wires is reduced as much as I'm capable of
 -> Everything can either be plugged using JST (recommended) pin headers, or directly solderd onto the board
+
+![alt text](https://github.com/empirephoenix/GRBL-CNC-Simple-Breakout-for-external-drivers/raw/master/front.png)
+![alt text](https://github.com/empirephoenix/GRBL-CNC-Simple-Breakout-for-external-drivers/raw/master/back.png)
